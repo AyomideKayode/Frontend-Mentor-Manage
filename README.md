@@ -34,14 +34,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./)
+![](./images/Manage1.png)
+![](./images/Manage2.png)
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/AyomideKayode/Frontend-Mentor-Manage)
+- Live Site URL: [Add live site URL here](https://ay-manage-frontendmentor-project.netlify.app/)
 
 ## My process
 
@@ -61,16 +62,19 @@ In building this project, I got to learn the use of hsl color values, creating e
 ```
 Some JavaScript code I'm proud of
 ```
+
 ```JS
 const primaryHeader = document.querySelector('.primary-header');
 const navToggle = document.querySelector(".mobile-nav-toggle");
 const primaryNav = document.querySelector(".primary-navigation");
 ```
+
 ```css
 :root {
   --clr-accent-400: hsl(12, 88%, 59%);
   --clr-accent-300: hsl(12, 88%, 75%);
   --clr-accent-100: hsl(13, 100%, 96%);
+```
 
 ### Continued development
 
