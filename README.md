@@ -19,8 +19,6 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -38,13 +36,7 @@ Users should be able to:
 
 ![](./)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -64,8 +56,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-
-In building this project, i got to learn the use of hsl color values, creating easy to use css values with on root, using SVGs and also some JavaScript.
+In building this project, I got to learn the use of hsl color values, creating easy to use css values with on root, using SVGs and also some JavaScript.
 
 ```
 Some JavaScript code I'm proud of
@@ -83,9 +74,9 @@ const primaryNav = document.querySelector(".primary-navigation");
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Going forward, I would like to get more comfortable with using CSS Grid. Understanding the layout properly and how to get it to work WITH me and not against. LOL.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Also, I am really lokking forward to continuing my JavaScript classes so as to become well versed in using it for future projects.
 
 ### Useful resources
 
@@ -94,14 +85,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Ayomide Kayode](https://github.com/AyomideKayode)
+- Frontend Mentor - [@AyomideKayode](https://www.frontendmentor.io/profile/AyomideKayode)
+- Twitter - [@kazzy_wiz](https://twitter.com/kazzy_wiz)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to thank Kevin Powell (https://www.kevinpowell.co/) for some insight into building this project from Frontend Mentor. All the frustrations and head-scracthing finally paid off. And to my good friend Praise (https://github.com/Oghene-kevwe), who I call regularly whenever I get myself into a fix, thank you.
