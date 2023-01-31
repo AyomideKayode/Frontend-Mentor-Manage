@@ -37,12 +37,11 @@ Users should be able to:
 ![](./images/Manage1.png)
 ![](./images/Manage2.png)
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AyomideKayode/Frontend-Mentor-Manage)
-- Live Site URL: [Add live site URL here](https://ay-manage-frontendmentor-project.netlify.app/)
+- Solution URL: (https://github.com/AyomideKayode/Frontend-Mentor-Manage)
+- Live Site URL: (https://ay-manage-frontendmentor-project.netlify.app/)
 
 ## My process
 
