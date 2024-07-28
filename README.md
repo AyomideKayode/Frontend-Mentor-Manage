@@ -1,9 +1,10 @@
 # Frontend-Mentor-Manage
+
 A challenge from frontend mentor I attempted.
 
-# Frontend Mentor - Manage landing page solution
+## Frontend Mentor - Manage landing page solution
 
-This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,14 +35,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Manage1.png)
-![](./images/Manage2.png)
-
+![Manage1](./images/Manage1.png)
+![Manage2](./images/Manage2.png)
 
 ### Links
 
-- Solution URL: (https://github.com/AyomideKayode/Frontend-Mentor-Manage)
-- Live Site URL: (https://ay-manage-frontendmentor-project.netlify.app/)
+- [Solution URL](https://github.com/AyomideKayode/Frontend-Mentor-Manage)
+- [Live Site URL](https://ay-manage-frontendmentor-project.netlify.app/)
 
 ## My process
 
@@ -58,11 +58,9 @@ Users should be able to:
 
 In building this project, I got to learn the use of hsl color values, creating easy to use css values with on root, using SVGs and also some JavaScript.
 
-```
-Some JavaScript code I'm proud of
-```
+- Some JavaScript code I'm proud of
 
-```JS
+```js
 const primaryHeader = document.querySelector('.primary-header');
 const navToggle = document.querySelector(".mobile-nav-toggle");
 const primaryNav = document.querySelector(".primary-navigation");
@@ -94,4 +92,4 @@ Also, I am really lokking forward to continuing my JavaScript classes so as to b
 
 ## Acknowledgments
 
-I would like to thank Kevin Powell (https://www.kevinpowell.co/) for some insight into building this project from Frontend Mentor. All the frustrations and head-scracthing finally paid off. And to my good friend Praise (https://github.com/Oghene-kevwe), who I call regularly whenever I get myself into a fix, thank you.
+I would like to thank [Kevin Powell](https://www.kevinpowell.co/) for some insight into building this project from Frontend Mentor. All the frustrations and head-scracthing finally paid off. And to my good friend [Praise](https://github.com/Oghene-kevwe), who I call regularly whenever I get myself into a fix, thank you.
